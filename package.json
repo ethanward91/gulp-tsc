@@ -51,6 +51,6 @@
     "glob": "^4.0.0"
   },
   "optionalDependencies": {
-    "typescript": "^1.0.1"
+    "typescript": "^1.4.1"
   }
 }
